@@ -1,4 +1,6 @@
 #!/bin/bash
+#This script replicates a bunch of files in your home directory.
+#Press CRTL + C to stop i
 
 echo "i'm worm" > worm
 
