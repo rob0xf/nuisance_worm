@@ -1,6 +1,9 @@
-worm.sh is an annoying worm that replicates
+
+<h1 aling="center"> Nuisance Worm </h1>
+
+<p> worm.sh is an annoying worm that replicates
 a bunch of files through its home 
-directory. 
+directory. <br>
 Try it to annoy someone by downloading 
 the code and running it simply with: 
-bash worm.sh and press CRTL + C to stop it
+<b>bash worm.sh</b> and press <b>CRTL + C</b> to stop it </p>
