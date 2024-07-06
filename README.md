@@ -6,4 +6,4 @@ a bunch of files through its home
 directory. <br>
 Try it to annoy someone by downloading 
 the code and running it simply with: 
-`bash worm.sh` and press <b>CRTL + C</b> to stop it </p>
+```bash worm.sh``` and press <b>CRTL + C</b> to stop it </p>
