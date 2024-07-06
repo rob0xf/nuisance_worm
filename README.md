@@ -8,5 +8,5 @@ the code and running it simply with:  </p>
 
 ```sh
 bash worm.sh
-<p> and press <b>CRTL + C</b> to stop it </p>
 ```
+<p> and press <b>CRTL + C</b> to stop it </p>
